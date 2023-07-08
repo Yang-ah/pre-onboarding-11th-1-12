@@ -1,3 +1,17 @@
+## CI / CD 연습 
+- [x] AWS S3
+- [x] yml 파일을 통해 workflow 생성
+- [x] [배포링크](http://wanted-1st-team-assignment.s3-website.ap-northeast-2.amazonaws.com/)
+- [ ] 추후 test 추가
+<br>
+<br>
+
+---
+<br>
+<br>
+
+
+
 ## 원티드 프리온보딩 프론트엔드 인턴십 - 1주차 과제
 
 - 배포링크 : [바로가기](https://tiny-sawine-0a08a4.netlify.app/)
@@ -36,15 +50,7 @@ $ npm start
 - [6/29 회의](https://github.com/wanted-pre-onboarding-team12/pre-onboarding-11th-1-12/discussions/3)
 - [6/28 회의](https://github.com/wanted-pre-onboarding-team12/pre-onboarding-11th-1-12/discussions/2)
 
-## 깃허브 활용 내용
 
-- 깃허브를 통해 다수의 작업을 통합 관리
-- Discussions를 통해 작업 방침(코딩 컨벤션 등), 팀원별 작업할 내용을 관리
-
-## 노션 활용 내용
-
-- 동시에 다수가 편집/작성 가능한 노션을 통해 구술로 설명하기 힘든 부분을 노션에 작성함으로서 원활한 토론 진행
-- 코드 블록이나 여러 항목의 비교 테이블표 등의 서식을 활용하여 빠른 의사결정
 
 <br>
 
@@ -166,7 +172,7 @@ Remove : 파일을 삭제하는 작업만 수행한 경우
   - 채널을 개설하여 깃허브 레포지토리와 연결하여 커밋&풀리퀘스트 상태 공유
   - 디스코드 화면공유 & 음성통화 활용
 
-- Github
+- Github
 
   - 깃허브를 통해 다수의 작업을 통합 관리
   - Discussions를 통해 작업 방침(코딩 컨벤션 등), 팀원별 작업할 내용을 관리
