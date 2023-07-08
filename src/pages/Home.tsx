@@ -12,7 +12,7 @@ const Home = () => {
   return (
     <main className={styles.wrap}>
       <h1>
-        wanted pre onboarding <span>frontend</span>
+        wanted pre onboarding <span>frontend CI/CD</span>
       </h1>
       <p className={styles.description}>{description}</p>
       <button onClick={() => navigate('/signin')}>시작하기 &rarr; </button>

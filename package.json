@@ -25,7 +25,8 @@
     "build": "react-scripts build",
     "eject": "react-scripts eject",
     "format": "prettier --write --cache .",
-    "lint": "eslint --cache ."
+    "lint": "eslint --cache .",
+    "deploy": "npm run build && aws s3 sync build/ s3://wanted-1st-team-assignment --delete"
   },
   "eslintConfig": {
     "extends": [
